@@ -1,0 +1,22 @@
+{
+    "input_method": "Read from Local Directory",
+    "dir_path": "D:/Automation File Maker/TESTING/Data/",
+    "filename": "order1.xlsx",
+    "sheet_input_name": "",
+    "desc_cell_input": "",
+    "header_row": 22,
+    "col_line": "A",
+    "col_style": "E",
+    "col_color": "F",
+    "col_size": "H",
+    "col_barcode": "AX",
+    "col_qty": "DH",
+    "col_item_code": "DI",
+    "ups_per_impression": 36,
+    "target_plates_input": 3,
+    "overrun_allowance": 1.0,
+    "mo_number": "260041977",
+    "ref_name": "CARTER HT",
+    "output_dir_reports": "./Batching_Outputs/",
+    "output_dir_data": "./Data_Exports/"
+}
