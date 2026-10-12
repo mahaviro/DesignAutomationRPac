@@ -15,8 +15,8 @@
     "ups_per_impression": 36,
     "target_plates_input": 3,
     "overrun_allowance": 1.0,
-    "mo_number": "260041977",
+    "mo_number": "260041911",
     "ref_name": "CARTER HT",
-    "output_dir_reports": "./Batching_Outputs/",
-    "output_dir_data": "./Data_Exports/"
+    "output_dir_reports": "D:/Automation File Maker/TESTING/Batching/",
+    "output_dir_data": "D:/Automation File Maker/TESTING/Data_Import/"
 }

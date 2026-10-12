@@ -127,6 +127,15 @@ with st.sidebar:
         save_config(new_cfg)
         st.success("✅ Configuration saved successfully!")
 
+    # Watermark Footer di Sidebar
+    st.markdown("---")
+    st.markdown(
+        "<div style='text-align: center; color: #888888; font-size: 12px; font-weight: bold; padding-bottom: 10px;'>"
+        "PT. r-pac Packaging Indonesia © 2026"
+        "</div>", 
+        unsafe_allow_html=True
+    )
+
 if file_path_or_upload:
     try:
         wb_data = openpyxl.load_workbook(file_path_or_upload, data_only=True)
